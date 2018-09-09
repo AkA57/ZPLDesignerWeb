@@ -51,7 +51,6 @@ type = "page"
 		<lu><li>Http 400 error when using character '=' in ZPL code</li>
 		</lu>		
 		<br>
-      
     	<p><a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>
     </div>
     <div class="col col-6 item">
@@ -63,11 +62,13 @@ type = "page"
 </div>
 
 <div class="empty-sep"></div>
+
 <div class="gray-box">
   <div class="row gutters">
     <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.2</h3>
 		<h4>Initial Release</h4>
+    	<p><a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>		
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
@@ -76,5 +77,8 @@ type = "page"
     </div>
   </div>
 </div>
+
+<div class="empty-sep"></div>
+
 
 
