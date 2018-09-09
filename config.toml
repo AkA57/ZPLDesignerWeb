@@ -64,10 +64,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 #    name = "twitter"
 #    weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/nathan-day-59b48435/"
-    name = "linkedin"
-    weight = 4
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/nathan-day-59b48435/"
+#    name = "linkedin"
+#    weight = 4
 
 #[[menu.icon]]
 #    url = "https://www.stackoverflow.com/users/5878751/nate"
