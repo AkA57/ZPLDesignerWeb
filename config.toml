@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Cédric HUMBERT"
     description = "A Zebra Programming Language (ZPL) IDE."
-    logo = "favicon/android-chrome-192x192.png"
+    logo = "favicon/0.3.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"
     accent = "#262931" # dark colors do best
