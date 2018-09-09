@@ -2,7 +2,7 @@
 
 date = "2017-09-09T13:41:00+01:00"
 title = "Download the lastest version of ZPLDesigner"
-author = "author"
+author = "Cédric HUMBERT"
 draft = false
 type = "page"
 [menu]
