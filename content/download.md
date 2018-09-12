@@ -26,7 +26,7 @@ type = "page"
 		<li>An assistant will help you to use ZPL command.</li>
 		</lu>
 		<br>
-        <p>You can download ZPLDesigner v0.4 by using this link on SourceForge.</p>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">

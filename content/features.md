@@ -63,3 +63,19 @@ type = "page"
   </div>
 </div>
 
+<div class="empty-sep"></div> 
+
+<div class="gray-box">
+  <div class="row gutters">
+    <div class="col col-6 item">
+        <h3 class="boxtitle">ZPL assistant</h3>
+        <p>Each ZPL command come with an assistant that will help you to generate your label.</p>
+    </div>
+    <div class="col col-6 item">
+      <div style="width: 100%; text-align: right;">
+        <img class="feature-img" src="/img/zplAssistant.png">
+      </div>
+    </div>
+  </div>
+</div>
+
