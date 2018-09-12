@@ -13,7 +13,7 @@ type = "page"
 +++
 
 
-<!--<div class="gray-box">
+<div class="gray-box">
   <div class="row gutters">
     <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.4</h3>
@@ -34,7 +34,7 @@ type = "page"
       </div>
     </div>
   </div>
-</div>-->
+</div>
 
 <div class="empty-sep"></div>
 <div class="gray-box">
