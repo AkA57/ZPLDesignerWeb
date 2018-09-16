@@ -11,7 +11,7 @@ type = "page"
         weight = 2
         identifier = "FEATURES"
 +++
->ZPLDesigner is a free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
+
 
 <div class="empty-sep"></div>
 
