@@ -16,7 +16,7 @@ type = "page"
   <div class="row gutters">
     <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.5</h3>
-		<h5>2018-10-11</h5>
+		<h5>2018-10-26</h5>
 		<h4>New features</h4>
 		<lu>
 		<li>Support several labels on code editor.</li>
