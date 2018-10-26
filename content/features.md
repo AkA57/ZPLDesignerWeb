@@ -36,7 +36,8 @@ type = "page"
   <div class="col col-6 item">
         <h3 class="boxtitle">Live preview</h3>
         <p>By pressing F5 or clicking on <i>Preview</i> button, ZPL Designer will display the result of you ZPL code on a <i>Preview tab</i>. <br>You will be able to zoom/unzoom, rotate or save the generated label as an image.</p>
-        <p><i>An industrial ZPL printer with embedded website and network is required for this feature. <br>Enter the IP address of the printer on the top menu and click on the two arrows to connect. You are now able to use the print and preview functions.</i></p>
+		<p>You can choose how to render your ZPL code: a local Zebra printer or by using the <a href="http://www.labelary.com" target="_blank">labelary.com</a> webservice.</a>
+        <p><i>An industrial ZPL printer with embedded website and network is required when you choose to use "Local Zebra Printer" as renderer. <br>Enter the IP address of the printer on the top menu and click on the two arrows to connect. You are now able to use the print and preview functions.</i></p>
     </div>
 	<div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
