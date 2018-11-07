@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "ZPLDesigner"
+title = "ZPLDesigner - A Zebra Programming Language (ZPL) IDE with embedded viewer"
 description = "A Zebra Programming Language (ZPL) IDE."
 theme = "min_night"
 disqusShortname = ""
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Cédric HUMBERT"
-    description = "A Zebra Programming Language (ZPL) IDE."
+    description = "A free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL)."
     logo = "favicon/0.3.png"
     twitterAuthor = "@natedayta"
     githubUsername = "nathancday"

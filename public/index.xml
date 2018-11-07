@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZPLDesigner</title>
+    <title>ZPLDesigner -A Zebra Programming Language (ZPL) IDE with embedded viewer</title>
     <link>/</link>
-    <description>Recent content on ZPLDesigner</description>
+    <description>Recent content on ZPLDesigner -A Zebra Programming Language (ZPL) IDE with embedded viewer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Sep 2017 13:41:00 +0100</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Sat, 09 Sep 2017 13:41:00 +0100</pubDate>
       
       <guid>/download/</guid>
-      <description>Release version 0.4 New features  Check for update at startup. ZPL command parameters are now display more clearly. ZPL command can now be sorted by name or category (Barcode, Text, Graphic,...). A search box is now available on ZPL command list. An assistant will help you to use ZPL command.  
-      Release version 0.3 New features  Show ZPL command help depending on carret position.</description>
+      <description>Release version 0.5 2018-10-26 New features  Support several labels on code editor. Choose your ZPL render engine: a local Zebra printer or labelary.com webservice.  
+      Release version 0.4 2018-09-12 New features  Check for update at startup. ZPL command parameters are now display more clearly. ZPL command can now be sorted by name or category (Barcode, Text, Graphic,...). A search box is now available on ZPL command list.</description>
     </item>
     
     <item>
@@ -27,9 +27,9 @@
       <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
       
       <guid>/features/</guid>
-      <description>ZPLDesigner is a free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
-  Code editor ZPLDesigner provide a full colorized ZPL code editor with different color for commands, parameters, text and comment.
-      Live preview By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on a Preview tab.</description>
+      <description>Code editor ZPLDesigner provide a full colorized ZPL code editor with different color for commands, parameters, text and comment.
+      Live preview By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on a Preview tab. You will be able to zoom/unzoom, rotate or save the generated label as an image.
+You can choose how to render your ZPL code: a local Zebra printer or by using the labelary.</description>
     </item>
     
   </channel>
