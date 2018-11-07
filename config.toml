@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "ZPLDesigner - A Zebra Programming Language (ZPL) IDE with embedded viewer"
+title = "ZPL Designer - A Zebra Programming Language (ZPL) IDE with embedded viewer"
 description = "A Zebra Programming Language (ZPL) IDE."
 theme = "min_night"
 disqusShortname = ""
