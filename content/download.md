@@ -15,6 +15,32 @@ type = "page"
 <div class="gray-box">
   <div class="row gutters">
     <div class="col col-6 item">
+        <h3 class="boxtitle">Release version 0.5.1</h3>
+		<h5>2018-10-26</h5>
+		<h4>New features</h4>
+		<lu>
+	    <li>Add ZPL commands ^ML, ^MD, ^MN and ^MT.</li>
+		<li>Support ZPL code that doesn't generate any labels (example: <i>^XA^FOI^XZ</i>).</li>
+		</lu>
+		<br>
+		<h4>Bug correction</h4>
+		<lu><li>Label detection (start with <i>^XA</i>, end with <i>^XZ</i>) work now correctly.</li>
+		</lu>	
+		<br>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
+    </div>
+    <div class="col col-6 item">
+      <div style="width: 100%; text-align: right;">
+        <img class="feature-img" src="/img/no_label.png">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="empty-sep"></div>
+<div class="gray-box">
+  <div class="row gutters">
+    <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.5</h3>
 		<h5>2018-10-26</h5>
 		<h4>New features</h4>

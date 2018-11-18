@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <ZPLDesigner>  
-  <version>0.5.0.0</version>  
+  <version>0.5.1.0</version>  
   <url>https://www.zpldesigner.com/download/</url>  
-  <whatnew>New:\r\n- Support several labels on code editor.\r\n- Choose your ZPL render engine: a local Zebra printer or labelary.com webservice.</whatnew>
+  <whatnew>New:\r\n- Add ZPL commands ^ML, ^MD, ^MN and ^MT.\r\n- Support ZPL code that doesn't generate any labels (example: ^XA^FOI^XZ).\r\n\r\nBug:\r\nLabel detection (start with ^XA, end with ^XZ) work now correctly.</whatnew>
 </ZPLDesigner>  
