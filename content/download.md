@@ -12,11 +12,43 @@ type = "page"
         identifier = "Download"
 +++
 
+
+<div class="gray-box">
+  <div class="row gutters">
+    <div class="col col-6 item">
+        <h3 class="boxtitle">Release version 0.6</h3>
+		<h5>2018-12-10</h5>
+		<h4>New features</h4>
+		<lu>
+	    <li>Label size can now be customized using cm, mm or inch with <a href="http://www.labelary.com" target="_blank">labelary.com</a> or a local zebra.</li>
+		<li>Support <i>Open with</i> from Windows explorer right click.</li>
+		<li>Autocrop label image.</li>
+		<li>Add <i>File/Preferences</i> menu to customize ZPL code editor (font, size, color and variable start/stop string).</li>
+		</lu>
+		<br>
+		<h4>Bug correction</h4>
+		<lu><li>Label rotation work now correctly when submiting a previously rendered ZPL code.</li>
+		<li>^B7 assistant run now correctly.</li>
+		<li>Label size was sometime not correctly displayed when rendering from a local zebra.</li>
+		<li>Error message from <a href="http://www.labelary.com" target="_blank">labelary.com</a> are now fully displayed.</li>
+		</lu>	
+		<br>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
+    </div>
+    <div class="col col-6 item">
+      <div style="width: 100%; text-align: right;">
+        <img class="feature-img" src="/img/0.6.png">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="empty-sep"></div>
 <div class="gray-box">
   <div class="row gutters">
     <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.5.1</h3>
-		<h5>2018-10-26</h5>
+		<h5>2018-11-18</h5>
 		<h4>New features</h4>
 		<lu>
 	    <li>Add ZPL commands ^ML, ^MD, ^MN and ^MT.</li>

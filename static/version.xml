@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <ZPLDesigner>  
-  <version>0.5.1.0</version>  
+  <version>0.6.0.0</version>  
   <url>https://www.zpldesigner.com/download/</url>  
-  <whatnew>New:\r\n- Add ZPL commands ^ML, ^MD, ^MN and ^MT.\r\n- Support ZPL code that doesn't generate any labels (example: ^XA^FOI^XZ).\r\n\r\nBug:\r\nLabel detection (start with ^XA, end with ^XZ) work now correctly.</whatnew>
+  <whatnew>New:\r\n- Label size can now be customized using cm, mm or inch with labelary.com or a local zebra.\r\n - Support Open with from Windows explorer right click.\r\n - Autocrop label image.\r\n - Add File/Preferences menu to customize ZPL code editor (font, size, color and variable start/stop string).\r\n\r\nBug:\r\n - Label rotation work now correctly when submiting a previously rendered ZPL code.\r\n - ^B7 assistant run now correctly.\r\n - Label size was sometime not correctly displayed when rendering from a local zebra.\r\n - Error message from labelary.com are now fully displayed.</whatnew>
 </ZPLDesigner>  

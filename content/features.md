@@ -1,7 +1,7 @@
 +++
 
 date = "2016-12-05T14:41:00+01:00"
-title = "Features"
+title = "Features: ZPL code editor - ZPL Viewer - ZPL Commmands - ZPL Assistant"
 author = "Cédric HUMBERT"
 draft = false
 type = "page"
