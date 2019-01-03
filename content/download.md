@@ -8,7 +8,7 @@ type = "page"
 [menu]
      [menu.main]
         name = "DOWNLOAD"
-        weight = 3
+        weight = 4
         identifier = "Download"
 +++
 
