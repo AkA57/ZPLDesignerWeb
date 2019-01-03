@@ -33,7 +33,8 @@ type = "page"
 		<li>Error message from <a href="http://www.labelary.com" target="_blank">labelary.com</a> are now fully displayed.</li>
 		</lu>	
 		<br>
-        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
+		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
