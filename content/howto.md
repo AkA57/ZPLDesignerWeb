@@ -1,7 +1,7 @@
 +++
 
 date = "2018-12-05T14:41:00+01:00"
-title = "How to use ZPLDesigner"
+title = "How to use ZPLDesigner on a daily basis"
 author = "Cédric HUMBERT"
 draft = false
 type = "page"
