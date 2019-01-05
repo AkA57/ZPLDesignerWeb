@@ -60,7 +60,6 @@ type = "page"
 		<lu><li>Label detection (start with <i>^XA</i>, end with <i>^XZ</i>) work now correctly.</li>
 		</lu>	
 		<br>
-        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
@@ -82,7 +81,6 @@ type = "page"
         <li>Choose your ZPL render engine: a local Zebra printer or <a href="http://www.labelary.com" target="_blank">labelary.com</a> webservice.</li>
 		</lu>
 		<br>
-        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
@@ -107,7 +105,6 @@ type = "page"
 		<li>An assistant will help you to use ZPL command.</li>
 		</lu>
 		<br>
-        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
@@ -133,7 +130,6 @@ type = "page"
 		<lu><li>Http 400 error when using character '=' in ZPL code</li>
 		</lu>		
 		<br>
-    	<p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
@@ -152,7 +148,6 @@ type = "page"
 		<h5>2017-02-06</h5>
 		<h4>Initial Release</h4>
 		<br>
-    	<p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
