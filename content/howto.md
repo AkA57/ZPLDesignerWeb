@@ -41,3 +41,17 @@ type = "page"
 </div>
 
 <div class="empty-sep"></div>
+
+<div class="gray-box">
+	<div>
+		<h3 class="boxtitle">ZPLDesigner multiple labels</h3>
+        <p>How to generate multiple labels.</p>
+    </div>
+    <div class="col col-6 item">
+		<div style="width: 100%; text-align: right;">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/R597Mv2PJsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+
+<div class="empty-sep"></div>
