@@ -16,6 +16,37 @@ type = "page"
 <div class="gray-box">
   <div class="row gutters">
     <div class="col col-6 item">
+        <h3 class="boxtitle">Release version 0.7</h3>
+		<h5>2019-01-10</h5>
+		<h4>New features</h4>
+		<lu>
+		<li>Variables substitution feature.</li>
+	    <li>Add status bar.</li>
+		<li>Add <i>? / Help</i> menu.</li>
+		<li>General performance optimisation.</li>
+		</lu>
+		<br>
+		<h4>Bug correction</h4>
+		<lu><li>Out of memory message when preview from a Zebra printer.</li>
+		<li>ZPL Help for a command was sometimes updated when not needed.</li>
+		</lu>	
+		<br>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
+		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
+    </div>
+    <div class="col col-6 item">
+      <div style="width: 100%; text-align: right;">
+	   <iframe class="feature-img" src="https://giphy.com/embed/1rNZ7yhJ76JgFlpRlQ" width="480" height="412" frameBorder="0"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="empty-sep"></div>
+
+<div class="gray-box">
+  <div class="row gutters">
+    <div class="col col-6 item">
         <h3 class="boxtitle">Release version 0.6</h3>
 		<h5>2018-12-10</h5>
 		<h4>New features</h4>
@@ -33,8 +64,6 @@ type = "page"
 		<li>Error message from <a href="http://www.labelary.com" target="_blank">labelary.com</a> are now fully displayed.</li>
 		</lu>	
 		<br>
-        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
-		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
