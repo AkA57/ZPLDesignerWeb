@@ -31,7 +31,7 @@ type = "page"
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
-	   <iframe class="feature-img" src="https://giphy.com/embed/1rNZ7yhJ76JgFlpRlQ" width="480" height="412" frameBorder="0"></iframe>
+	   <img class="feature-img" src="/img/assistant2.png">
       </div>
     </div>
   </div>
