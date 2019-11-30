@@ -12,6 +12,33 @@ type = "page"
         identifier = "Download"
 +++
 
+<div class="gray-box">
+  <div class="row gutters">
+    <div class="col col-6 item">
+        <h3 class="boxtitle">Release version 0.8</h3>
+		<h5>2019-11-30</h5>
+		<h4>New features</h4>
+		<lu>
+		<li>Preview windows can be unpin on another windows.</li>
+	    <li>Print on local (USB/COM) Zebra.</li>
+		<li>Add ^CF, ^CW, ^FL, ^HT and ^LF command</li>
+		<li>Update assistant screen.</li>
+		</lu>
+		<br>
+		<br>
+        <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
+		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
+    </div>
+    <div class="col col-6 item">
+      <div style="width: 100%; text-align: right;">
+	   <iframe class="feature-img" src="https://giphy.com/embed/1rNZ7yhJ76JgFlpRlQ" width="480" height="412" frameBorder="0"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="empty-sep"></div>
+
 
 <div class="gray-box">
   <div class="row gutters">
