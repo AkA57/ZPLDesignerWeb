@@ -19,8 +19,8 @@ type = "page"
 		<h5>2019-11-30</h5>
 		<h4>New features</h4>
 		<lu>
-		<li>Preview windows can be unpin on another windows.</li>
-	    <li>Print on local (USB/COM) Zebra.</li>
+		<li>Preview windows can be unpin on another windows/screen.</li>
+	    <li>Print on local (USB/COM) Zebra & Labelary.</li>
 		<li>Add ^CF, ^CW, ^FL, ^HT and ^LF command</li>
 		<li>Update assistant screen.</li>
 		</lu>
@@ -63,7 +63,7 @@ type = "page"
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
-	   <img class="feature-img" src="/img/07.gif">
+	   <img class="feature-img" src="/img/0.7.gif">
       </div>
     </div>
   </div>
