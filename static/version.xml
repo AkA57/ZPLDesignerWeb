@@ -2,5 +2,5 @@
 <ZPLDesigner>  
   <version>0.8.0.0</version>  
   <url>https://www.zpldesigner.com/download/</url>  
-  <whatnew>New:\r\n- Preview windows can be unpin on another windows/screen.\r\n - Print on local Zebra (USB, LPT1, COM) with Labelary.\r\n - Add ^CF, ^CW, ^FL, ^HT and ^LF command.\r\nNew desgin for ZPL Assistant \r\n\r\nBug:\r\n - ^B4 command parameters was wrong.</whatnew>
+  <whatnew>New:\r\n - Preview windows can be unpin on another windows/screen.\r\n - Print on local Zebra (USB, LPT1, COM) with Labelary.\r\n - Add ^CF, ^CW, ^FL, ^HT and ^LF command.\r\n - New desgin for ZPL Assistant \r\n\r\nBug:\r\n - ^B4 command parameters was wrong.</whatnew>
 </ZPLDesigner>
