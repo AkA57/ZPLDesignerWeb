@@ -63,7 +63,7 @@ type = "page"
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
-	   <img class="feature-img" src="/img/assistant2.png">
+	   <img class="feature-img" src="/img/07.gif">
       </div>
     </div>
   </div>
