@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <ZPLDesigner>  
-  <version>0.7.0.0</version>  
+  <version>0.8.0.0</version>  
   <url>https://www.zpldesigner.com/download/</url>  
-  <whatnew>New:\r\n- Add variables substitution feature.\r\n - Add status bar.\r\n - General performance optimisation.\r\n\r\nBug:\r\n - Out of memory message when preview from a Zebra printer.\r\n - ZPL Help for a command was sometimes updated when not needed.</whatnew>
+  <whatnew>New:\r\n- Preview windows can be unpin on another windows/screen.\r\n - Print on local Zebra (USB, LPT1, COM) with Labelary.\r\n - Add ^CF, ^CW, ^FL, ^HT and ^LF command.\r\nNew desgin for ZPL Assistant \r\n\r\nBug:\r\n - ^B4 command parameters was wrong.</whatnew>
 </ZPLDesigner>
