@@ -20,11 +20,14 @@ type = "page"
 		<h4>New features</h4>
 		<lu>
 		<li>Preview windows can be unpin on another windows/screen.</li>
-	    <li>Print on local (USB/COM) Zebra & Labelary.</li>
-		<li>Add ^CF, ^CW, ^FL, ^HT and ^LF command</li>
-		<li>Update assistant screen.</li>
+	    	<li>Print on local Zebra (USB, LPT1, COM) with Labelary.</li>
+		<li>Add ^CF, ^CW, ^FL, ^HT and ^LF command.</li>
+		<li>New desgin for ZPL Assistant.</li>
 		</lu>
-		<br>
+	    	<br>
+	    	<h4>Bug correction</h4>
+		<lu><li>^B4 command parameters was wrong.</li>
+		</lu>
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
 		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
