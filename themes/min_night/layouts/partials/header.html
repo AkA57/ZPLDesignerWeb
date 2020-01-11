@@ -93,14 +93,18 @@
                             <!--{{ partial "toggle"}} -->
                         </ul>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="4HZKLD4GF734Q" />
-<input type="hidden" name="item_name" value="ZPLDesigner" />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
+<ul class="nav navbar-nav navbar-right">
+<li class="navbar-icon">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="4HZKLD4GF734Q">
+<input type="hidden" name="item_name" value="ZPLDesigner">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="fa">
+<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="50" class="fa">
 </form>
+</li>
+</ul>
                    
                     {{ end }}
                 </div>
