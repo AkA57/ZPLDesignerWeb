@@ -31,7 +31,7 @@ type = "page"
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
 		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
-	    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_donations" />
 <input type="hidden" name="business" value="4HZKLD4GF734Q" />
 <input type="hidden" name="item_name" value="ZPLDesigner" />
