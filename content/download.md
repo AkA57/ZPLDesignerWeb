@@ -28,7 +28,7 @@ type = "page"
 	    	<br>
 	    	<h4>Bug correction</h4>
 		<lu><li>Improve Assistant.</li>
-                <lu><li>Preferences - Variable End string populated false (thanks to Ralph).</li>			
+                <lu><li>Preferences/Variable End string populated false (thanks to Ralph).</li>			
 		</lu>
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
@@ -45,7 +45,7 @@ type = "page"
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
-	   <img class="feature-img" src="/img/assistant2.png">
+	   <img class="feature-img" src="/img/0.9_download.png">
       </div>
     </div>
   </div>
@@ -74,15 +74,6 @@ type = "page"
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
 		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
-	    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="4HZKLD4GF734Q" />
-<input type="hidden" name="item_name" value="ZPLDesigner" />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
     </div>
     <div class="col col-6 item">
       <div style="width: 100%; text-align: right;">
