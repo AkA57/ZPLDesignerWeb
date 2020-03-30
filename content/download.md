@@ -19,7 +19,7 @@ type = "page"
 		<h5>2020-03-30</h5>
 		<h4>New features</h4>
 		<lu>
-		<li>Create your own "Label Format" in In, Mm or Cm.<br><p style="font-size:10px">thanks to Stewe W.</p></li>
+			<li>Create your own "Label Format" in In, Mm or Cm <i>(thanks to Stewe W)</i>.</li>
 	    	<li>Keep the last selected "Label Format" instead of resetting to "None".<p style="font-size:10px"> thanks to Ralf.</p></li>
 		<li>Keep the last selected "Zoom" instead of resetting to "100%".<br>thanks to Steve W.</li>
                 <li>Keep "ZPL Command" panel width on fullscreen<br>thanks to Alexandre D.</li>			
