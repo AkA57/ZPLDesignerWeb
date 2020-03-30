@@ -28,7 +28,7 @@ type = "page"
 	    	<br>
 	    	<h4>Bug correction</h4>
 		<lu><li>Improve Assistant.</li>
-                <lu><li>Preferences/Variable End string populated false (thanks to Ralph).</li>			
+                <li>Preferences/Variable End string populated false (thanks to Ralph).</li>			
 		</lu>
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
