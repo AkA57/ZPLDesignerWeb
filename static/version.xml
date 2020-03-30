@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <ZPLDesigner>  
-  <version>0.8.0.0</version>  
+  <version>0.9.0.0</version>  
   <url>https://www.zpldesigner.com/download/</url>  
-  <whatnew>New:\r\n - Preview windows can be unpin on another windows/screen.\r\n - Print on local Zebra (USB, LPT1, COM) with Labelary.\r\n - Add ^CF, ^CW, ^FL, ^HT and ^LF command.\r\n - New desgin for ZPL Assistant \r\n\r\nBug:\r\n - ^B4 command parameters was wrong.</whatnew>
+  <whatnew>New:\r\n - Create your own Label Format in In, Mm or Cm.\r\n - Keep the last selected Label Format instead of resetting to None.\r\n - Keep the last selected "oom instead of resetting to 100%.\r\n - Keep ZPL Command panel width on fullscreen. \r\n\r\nBug:\r\n - Assistant generate wrong ZPL code for some command.\r\n - Preferences-Variable End string populated false.</whatnew>
 </ZPLDesigner>
