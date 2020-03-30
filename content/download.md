@@ -20,8 +20,8 @@ type = "page"
 		<h4>New features</h4>
 		<lu>
 		<li>Create your own "Label Format" in In, Mm or Cm.<br><p style="font-size:10px">thanks to Stewe W.</p></li>
-	    	<li>Keep the last selected "Label Format" instead of resetting to "None".<br>thanks to Ralf.</li>
-		<li>Keep the last selected "Zoom" instead of resetting to "100%"<br>thanks to Steve W.</li>
+	    	<li>Keep the last selected "Label Format" instead of resetting to "None".<p style="font-size:10px"> thanks to Ralf.</p></li>
+		<li>Keep the last selected "Zoom" instead of resetting to "100%".<br>thanks to Steve W.</li>
                 <li>Keep "ZPL Command" panel width on fullscreen<br>thanks to Alexandre D.</li>			
 		</lu>
 	    	<br>
