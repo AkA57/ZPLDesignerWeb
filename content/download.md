@@ -31,7 +31,7 @@ type = "page"
 		</lu>
 		<br>
 	    	 <h4>Other</h4>
-	<p> Thanks to Stewe W., Ralf and Alexandre D. for their bug reports and suggestions</p> 
+	<p> Thanks to Stewe W., Ralf and Alexandre D. for their bug reports and suggestions.</p> 
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
 		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
