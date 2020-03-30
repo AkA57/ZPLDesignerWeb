@@ -19,16 +19,19 @@ type = "page"
 		<h5>2020-03-30</h5>
 		<h4>New features</h4>
 		<lu>
-			<li>Create your own "Label Format" in In, Mm or Cm <i>(thanks to Stewe W)</i>.</li>
-	    	<li>Keep the last selected "Label Format" instead of resetting to "None".<p style="font-size:10px"> thanks to Ralf.</p></li>
-		<li>Keep the last selected "Zoom" instead of resetting to "100%".<br>thanks to Steve W.</li>
-                <li>Keep "ZPL Command" panel width on fullscreen<br>thanks to Alexandre D.</li>			
+			<li>Create your own "Label Format" in In, Mm or Cm.</li>
+	    	<li>Keep the last selected "Label Format" instead of resetting to "None".</p></li>
+		<li>Keep the last selected "Zoom" instead of resetting to "100%".</li>
+                <li>Keep "ZPL Command" panel width on fullscreen.</li>			
 		</lu>
 	    	<br>
 	    	<h4>Bug correction</h4>
 		<lu><li>Assistant generate wrong ZPL code for some command.</li>
-                <li>Preferences/Variable End string populated false.<br>thanks to Ralph.</li>			
+                <li>Preferences/Variable End string populated false.</li>			
 		</lu>
+		<br>
+	    	 <h4>Other</h4>
+	<p> Thanks to Stewe W., Ralf and Alexandre D. for their bug reports and suggestions</p> 
 		<br>
         <p><a href="https://sourceforge.net/p/zpldesigner/"><img alt="Download ZPLDesigner" src="https://sourceforge.net/sflogo.php?type=17&group_id=3020659" width=200></a>
 		<a href="https://sourceforge.net/projects/zpldesigner/files/latest/download"><img alt="Download ZPLDesigner" src="https://img.shields.io/sourceforge/dt/zpldesigner.svg" ></a></p>
